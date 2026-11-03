@@ -49,4 +49,4 @@ Student records are stored in a Python list while the program is running. The re
 
 ## Author
 
-Add your name here.
+Aakash Ponalagappan
